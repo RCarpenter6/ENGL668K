@@ -5,4 +5,15 @@
     xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
     
-</surface>
+    <zone type="library"><line>*405></line></zone>
+    
+    <zone type="main">
+        <line>With what truth I may say</line>
+        <line>Roma Roma Roma</line>
+        <line>non e piu come era prima</line>
+        <line>My lost William</line>
+        <line><del rend="strikethrough"><unclear reason="illegible">wind winters</unclear></del> thou in whom</line>
+        <line>Some <del rend="strikethrough">sweet</del><add place="superlinear">bright</add>spirit lived + died</line>
+        <line>That decaying robe consume</line> 
+        <line>Which its<del rend="strikethrough">faded dust</del><add place="superlinear">luster faintly</add>hid</line>
+ 
