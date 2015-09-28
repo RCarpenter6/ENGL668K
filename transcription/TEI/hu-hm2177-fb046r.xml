@@ -4,5 +4,19 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
-    
+      <zone type="main">
+          <line><del rend="strikethrough">In the Thy remains</del></line>
+          <line>Here his ashes find a tomb</line>
+          <line><add place="superlinear">But be</add><del rend="strikethrough">Under</del>neath this pyramid</line>
+          <line><del rend="strikethrough">Lie thy bones -- if thou canst die</del></line>
+          <line><add place="sublinear">From thy</add><del rend="strikethrough">Rest thy bones -- there is a shrine</del></line>
+        <space dim="vertical" unit="lines" extent="1"/>
+          <line>Where art though <del rend="strikethrough">gone</del> my gentle<add place="superlinear"><del rend="strikethrough">child</del></add> boy</line> 
+          <line><del rend="strikethrough">Dissolved into the living weeds</del></line>
+          <line><add place="superlinear">Let me</add><del rend="strikethrough">Whose child I   </del>think thy spirit feeds</line>
+          <line>Within its life intense <add place="superlinear">+ mild</add></line>
+          <line>The <del rend="strikethrough">grass</del> <del     rend="strikethrough">living</del><add place="superlinear">love</add> of living   flowers<add place="sublinear">+ weeds</add></line>
+          <line>Among these tombs + ruins wilds</line>
+        <line><del rend="strikethrough">Could I believe that</del></line>
+      </zone>
 </surface>
