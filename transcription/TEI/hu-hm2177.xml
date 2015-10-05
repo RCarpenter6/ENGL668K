@@ -41,6 +41,16 @@
                             <author>Percy Bysse Shelley</author>
                         </msItem>
                     </msContents>
+                    <physDesc>
+                         <handDesc>
+                              <handNote xml:id="pbs1"> 
+                                   <persname"Percy Bysse Shelley"></persname>
+                              </handNote>
+                              <handNote xml:is="pbs2">
+                                   <persname"Percy Bysse Shelley"></persname>
+                              </handNote>
+                         </handDesc>
+                    </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
