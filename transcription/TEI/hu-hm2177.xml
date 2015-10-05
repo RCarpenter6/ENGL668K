@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>My Sweet William</title>
             </titleStmt>
             <editionStmt>
                 <edition>Shelley-Godwin Archive edition, <date>2015</date>
@@ -36,8 +36,9 @@
                     <msContents>
                         <msItem>
                             <bibl>
-                                <title></title>
+                                <title>My Sweet William</title>
                             </bibl>
+                            <author>Percy Bysse Shelley</author>
                         </msItem>
                     </msContents>
                 </msDesc>
