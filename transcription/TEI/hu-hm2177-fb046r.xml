@@ -6,12 +6,12 @@
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
     <zone type="library"><line>*405></line></zone>
     <zone type="main">
-        <line>With what truth I may say</line>
-        <line>Roma Roma Roma</line>
-        <line>non e piu come era prima</line>
-        <line>My lost William</line>
-        <line><del rend="strikethrough"><unclear reason="illegible">wind winters</unclear></del> thou in whom</line>
-        <line>Some <del rend="strikethrough">sweet</del><add place="superlinear">bright</add>spirit lived + died</line>
-        <line>That decaying robe consume</line> 
-        <line>Which its<del rend="strikethrough">faded dust</del><add place="superlinear">luster faintly</add>hid</line>
+        <line rend="indent1">With what truth I may say</line>
+        <line rend="indent2">Roma Roma Roma</line>
+        <line rend="indent1">non e piu come era prima</line>
+        <line rend="indent1">My lost William</line>
+        <line rend="indent2"><mod><del rend="strikethrough"><unclear reason="illegible">wind winters</unclear></del></mod> thou in whom</line>
+        <line rend="indent2">Some<mod><del rend="strikethrough">sweet</del><add place="superlinear">bright</add></mod> spirit lived + died</line>
+        <line rend="indent2">That decaying robe consume</line> 
+        <line rend="indent2">Which its<mod><del rend="strikethrough">faded dust</del><add place="superlinear">luster faintly</add></mod>hid</line>
  
