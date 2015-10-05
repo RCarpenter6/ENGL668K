@@ -4,21 +4,16 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb045v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb045v.jpg"/>
-    
     <zone type="library"><line>*450</line></zone>
-    
     <zone type="left_margin" rotate="90">
-        <line><del rend="strikethrough">Think not gods</del> of flattery or <unclear reason="illegible">its</unclear></line>
+        <line><mod><del rend="strikethrough">Think not gods</del></mod> of flattery or <unclear reason="illegible">its</unclear></line>
     </zone>
-        
     <zone type= "main"> 
-        <line>Thou art not...if a thing divine</line>
-        <line>Like thou, can die-thy funeral shrine</line>
-        <line>is thy mother's<del rend="strikethrough">heart</del><add place="superlinear">heart</add><add place="sublinear">grief</add></line>
-        
+        <line rend="indent1">Thou art not...if a thing divine</line>
+        <line rend="indent1">Like thou, can die-thy funeral shrine</line>
+        <line>is thy mother's<mod><del rend="strikethrough">heart</del><add place="superlinear">heart</add><add place="sublinear">grief</add></mod></line>
         <space dim="vertical" unit="lines" extent="5"/>
-        <line>ρινημη τωναγχα<unclear reason="illegible">ζ</unclear>ων α<unclear reason="illegible" extent="2"unit="chars"></unclear><unclear reason="illegible" extent="1"unit="chars"></unclear>α l35</line>
-        
-    </zone>
+        <line rend="indent1">ρινημη τωναγχα<unclear reason="illegible">ζ</unclear>ων α<unclear reason="illegible" extent="2"unit="chars"></unclear><unclear reason="illegible" extent="1"unit="chars"></unclear>α l35</line>
+        </zone>
 </surface>
    
