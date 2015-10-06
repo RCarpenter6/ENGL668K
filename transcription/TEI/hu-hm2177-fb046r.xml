@@ -4,17 +4,17 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-          <line><del rend="strikethrough">In the Thy remains</del></line>
+         <zone type="library"><line>*405></line></zone>
+    <zone type="main">
+        <line rend="indent1">With what truth I may say</line>
+        <line rend="indent2">Roma Roma Roma</line>
+        <line rend="indent1">non e piu come era prima</line>
+        <line rend="indent1">My lost William</line>
+        <line rend="indent2"><mod><del rend="strikethrough"><unclear reason="illegible">wind winters</unclear></del></mod> thou in whom</line>
+        <line rend="indent2">Some<mod><del rend="strikethrough">sweet</del><add place="superlinear">bright</add></mod> spirit lived + died</line>
+        <line rend="indent2">That decaying robe consume</line> 
+        <line rend="indent2">Which its<mod><del rend="strikethrough">faded dust</del><add place="superlinear">luster faintly</add></mod>hid</line>
+           <line><del rend="strikethrough">In the Thy remains</del></line>
           <line>Here his ashes find a tomb</line>
           <line><add place="superlinear">But be</add><del rend="strikethrough">Under</del>neath this pyramid</line>
           <line><del rend="strikethrough">Lie thy bones -- if thou canst die</del></line>
