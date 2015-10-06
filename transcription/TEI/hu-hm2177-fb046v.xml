@@ -4,11 +4,10 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
-      <zone type="main">
+      <zone type="main" rotate="180">
           <line rend="indent1"><del rend="strikethrough">A melancholy gladness</del></line>
           <line rend="indent1">let me think that thro low seeds</line>
-          <line rend="indent1">Of the<del rend="strikethrough"><unclear reason="illegible"><unclear reason="illegible"></del></line>
-          <line rend="indent1">sweet flowers and sunny grass</line>
+          <line rend="indent1">Of the<mod><del rend="strikethrough">living breathing</del><add place "sublinear">sweet flowers + sunny grass</add></mod></line>        <line rend="indent1">sweet flowers and sunny grass</line>
           <line rend="indent1"><del rend="strikethrough">An unknown power may</del></line>
           <line rend="indent1">into their hues and scents may pass</line>
           <line rend="indent1">A portion</line>
