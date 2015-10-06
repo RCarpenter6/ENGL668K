@@ -5,9 +5,11 @@
     xml:id="hu-hm2177-fb045v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb045v.jpg"/>
     <zone type="library"><line>*450</line></zone>
+        <zone type="left_margin" rotate="90">
+        <line><handShift new="#pbs1"/><del rend="strikethrough">Think not gods</del> of flattery or <unclear reason="illegible">its</unclear></line>
+    </zone>
     <zone type="main">
-        <line><del rend="strikethrough">Think not gods</del> of flattery or <unclear reason="illegible">its</unclear></line>
-        <line rend="indent1">Thou art not...if a thing divine</line>
+        <line rend="indent1"><handShift new="#pbs2"/>Thou art not...if a thing divine</line>
         <line rend="indent1">Like thou, can die-thy funeral shrine</line>
         <line>is thy mother's<mod><del rend="strikethrough">heart</del><add place="superlinear">heart</add><add place="sublinear">grief</add></mod></line>
         <space dim="vertical" unit="lines" extent="5"/>
