@@ -28,11 +28,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
-                        <altIdentifier>
-                            <idno></idno>
-                        </altIdentifier>
-                    </msIdentifier>
+                    <msIdentifier>MS HM 2177</msIdentifier>
                     <msContents>
                         <msItem>
                             <bibl>
@@ -40,6 +36,13 @@
                             </bibl>
                         </msItem>
                     </msContents>
+                    <physDesc>
+                         <handDesc>
+                              <handNote xml:id="pbs1">
+                                   <persName>Percy Shelley</persName>
+                              </handNote>
+                         </handDesc>
+                    </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
