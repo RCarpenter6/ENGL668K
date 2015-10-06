@@ -14,18 +14,18 @@
         <line rend="indent2">Some<mod><del rend="strikethrough">sweet</del><add place="superlinear">bright</add></mod> spirit lived + died</line>
         <line rend="indent2">That decaying robe consume</line> 
         <line rend="indent2">Which its<mod><del rend="strikethrough">faded dust</del><add place="superlinear">luster faintly</add></mod>hid</line>
-           <line><del rend="strikethrough">In the Thy remains</del></line>
-          <line>Here his ashes find a tomb</line>
-          <line><add place="superlinear">But be</add><del rend="strikethrough">Under</del>neath this pyramid</line>
-          <line><del rend="strikethrough">Lie thy bones -- if thou canst die</del></line>
-          <line><add place="sublinear">From thy</add><del rend="strikethrough">Rest thy bones -- there is a shrine</del></line>
+        <line rend="indent1"><del rend="strikethrough">In the Thy remains</del></line>
+        <line rend="indent1">Here his ashes find a tomb</line>
+        <line rend="indent1"><mod><add place="superlinear">But be</add><del rend="strikethrough">Under</del></mod>neath this pyramid</line>
+        <line rend="indent1"><del rend="strikethrough">Lie thy bones -- if thou canst die</del></line>
+        <line rend="indent1"><mod><add place="sublinear">From thy</add><del rend="strikethrough">Rest thy bones -- there is a shrine</del></mod></line>
         <space dim="vertical" unit="lines" extent="1"/>
-          <line>Where art though <del rend="strikethrough">gone</del> my gentle<add place="superlinear"><del rend="strikethrough">child</del></add> boy</line> 
-          <line><del rend="strikethrough">Dissolved into the living weeds</del></line>
-          <line><add place="superlinear">Let me</add><del rend="strikethrough">Whose child I </del>think thy spirit feeds</line>
-          <line>Within its <del rend="strikethrough"> young</del> <add place="superlinear">life <del rend="strikethrough">small</del></add><unclear reason="illegible" extent="1" unit="word"></unclear>life intense <add place="superlinear">+ mild</add></line>
-          <line>The <del rend="strikethrough">grass</del> <del rend="strikethrough">living</del><add place="superlinear">love</add> of living <mod><del rend="strikethrough">flowers</del><add place="superlinear" hand="#pbs1">leaves</add></mod><add place="sublinear">+ weeds</add></line>
-        <line><del rend="strikethrough">Could I believe that</del></line>
-          <line>Among these tombs + ruins wilds</line>
+        <line rend="indent1">Where art though <del rend="strikethrough">gone</del> my gentle<mod><add place="superlinear">child</add><del rend="strikethrough">boy</del></mod></line> 
+        <line rend="indent1"><del rend="strikethrough">Dissolved into the living weeds</del></line>
+        <line rend="indent1"><mod><add place="superlinear">Let me</add><del rend="strikethrough">Whose child I </del></mod>think thy spirit feeds</line>
+        <line rend="indent1">Within its <del rend="strikethrough"> young</del> <add place="superlinear">life <del rend="strikethrough">small</del></add><unclear reason="illegible" extent="1" unit="word"></unclear>life intense <add place="superlinear">+ mild</add></line>
+        <line rend="indent1">The <del rend="strikethrough">grass</del><mod><del rend="strikethrough">living</del><add place="superlinear">love</add></mod> of living <mod><del rend="strikethrough">flowers</del><add place="superlinear" hand="#pbs1">leaves</add></mod><add place="sublinear">+ weeds</add></line>
+        <line rend="indent1"><del rend="strikethrough">Could I believe that</del></line>
+        <line rend="indent1">Among these tombs + ruins wilds</line>
       </zone>
 </surface>
