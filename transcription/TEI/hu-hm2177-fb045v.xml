@@ -6,12 +6,12 @@
     <graphic url="../../images/hu-hm2177-fb045v.jpg"/>
     <zone type="library"><line>*450</line></zone>
     <zone type="main">
-        <line><mod><del rend="strikethrough">Think not gods</del></mod> of flattery or <unclear reason="illegible">its</unclear></line>
+        <line><del rend="strikethrough">Think not gods</del> of flattery or <unclear reason="illegible">its</unclear></line>
         <line rend="indent1">Thou art not...if a thing divine</line>
         <line rend="indent1">Like thou, can die-thy funeral shrine</line>
         <line>is thy mother's<mod><del rend="strikethrough">heart</del><add place="superlinear">heart</add><add place="sublinear">grief</add></mod></line>
         <space dim="vertical" unit="lines" extent="5"/>
-        <line rend="indent1">ρινημη τωναγχα<unclear reason="illegible">ζ</unclear>ων α<unclear reason="illegible" extent="2"unit="chars"></unclear><unclear reason="illegible" extent="1"unit="chars"></unclear>α l35</line>
+        <line rend="indent1">ρινημη τωναγχα<unclear reason="illegible">ζ</unclear>ων α<unclear reason="illegible" extent="2" unit="chars"></unclear><unclear reason="illegible" extent="1" unit="chars"></unclear>α l35</line>
     </zone>
 </surface>
    
