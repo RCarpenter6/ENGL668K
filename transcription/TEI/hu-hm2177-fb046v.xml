@@ -2,7 +2,13 @@
 <?xml-model href="schema/shelley-godwin-page.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="schema/shelley-godwin-page.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
-    xml:id="hu-hm2177-fb046v" ulx="0" uly="0" lrx="5412" lry="7216">
-    <graphic url="../../images/hu-hm2177-fb046v.jpg"/>
-    
-</surface>
+    xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
+    <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
+      <zone type="main">
+          <line><del rend="strikethrough">A melancholy gladness</del></line>
+          <line>let me think that thro low seeds</line>
+          <line>Of the<del rend="strikethrough">[illegible illegible]</del></line>
+          <line>sweet flowers and sunny grass</line>
+          <line><del rend="strikethrough">An unknown power may</del></line>
+          <line>into their hues and scents may pass</line>
+          <line>A portion</line>
