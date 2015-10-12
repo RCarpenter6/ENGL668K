@@ -11,7 +11,7 @@
     <zone type="main">
         <line rend="indent1"><handShift new="#pbs2"/>Thou art not...if a thing divine</line>
         <line rend="indent1">Like thou, can die-thy funeral shrine</line>
-        <line>is thy mother's<mod><del rend="strikethrough">heart</del><add place="superlinear">heart</add><add place="sublinear">grief</add></mod></line>
+        <line rend="indent1">is thy mother's<mod><del rend="strikethrough">heart</del><add place="superlinear">heart</add><add place="sublinear">grief</add></mod></line>
         <space dim="vertical" unit="lines" extent="5"/>
         <line rend="indent1">μυημη τωυ αγαζων αει ζαλης</line>
     </zone>
