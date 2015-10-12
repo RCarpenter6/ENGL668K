@@ -35,7 +35,7 @@
                     <msContents>
                         <msItem>
                             <bibl>
-                                <title>My Sweet William</title>
+                                <title>"My lost William, thou in whom ("To William Shelley")</title>
                             </bibl>
                         </msItem>
                     </msContents>
@@ -52,6 +52,19 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+          <langUsage>
+               <language ident="en">English</language>
+               <language ident="grc">Ancient Greek</language>
+               <language ident="it">Italian</language>
+          </langUsage>
+          <settingDesc>
+               <setting>
+                    <name>Florence, Italy</name>
+                    <time>November 1819</time>
+               </setting>
+          </settingDesc>
+        </profileDesc>
     </teiHeader>
     <sourceDoc>
         <xi:include href="hu-hm2177-fb045v.xml" />
