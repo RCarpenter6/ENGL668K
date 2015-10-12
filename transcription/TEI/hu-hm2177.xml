@@ -4,7 +4,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <respStmt>
+                    <resp>transcribed by</resp>
+                         <name>Ruth Carpenter</name><name>Caitlin Rizzo</name><name>Cara Snyder</name>
+               </respStmt>
             </titleStmt>
             <editionStmt>
                 <edition>Shelley-Godwin Archive edition, <date>2015</date>
