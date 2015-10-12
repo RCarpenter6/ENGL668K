@@ -15,7 +15,7 @@
         </zone> 
     </surface>
     
-    <zone type= rotate= "180">
+    <zone type="left_margin"rotate="180">
         <line>Originality does not consist</line>
     </zone>
     
